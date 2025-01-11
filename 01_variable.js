@@ -12,5 +12,7 @@ console.table([accountId, accountEmail,accountpassword,accountcity, accountstate
 /*
  prefer not to use var 
  because of issue in block scope and function scope 
+//  let mai globally chnage nhi hoga 
+//  var mai change hoga 
 
 */
