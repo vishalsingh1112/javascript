@@ -22,7 +22,7 @@
 // console.log(myArr.includes(9));
 // console.log(myArr.indexOf(1));
 
-// const newArr = myArr.join()
+// const newArr = myArr.join() // use to joi arrays and string 
 // console.log(myArr);
 // console.log(  newArr);
 // console.log(myArr);
