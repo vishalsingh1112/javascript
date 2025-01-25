@@ -62,8 +62,23 @@ console.log(instructor );
 
 //  {} used for destructuring
 
- 
+
+//  json format api 
+
+//  api used for apna kam kisi aur talna ya dena 
+  {
+    "name" :"vishal singh",
+    "coursename": "js in hindi",
+    "price" :"free"
+
+
+  }
    
+  [
+    {},
+    {},
+    {},
+  ]
 
  
  
