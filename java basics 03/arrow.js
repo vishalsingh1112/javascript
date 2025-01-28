@@ -9,8 +9,36 @@ const user = {
         
     }
 }
-user.welcomeMessage()
-user.username="vish"
-user.welcomeMessage()
+// user.welcomeMessage()
+// user.username="vish"
+// user.welcomeMessage()
 
-console.log(this);
+// console.log(this);
+
+// function chai (){
+//     let username = "vishal"
+//     console.log(this.username);
+    
+// }
+// chai()
+const chai = () =>{
+    let username="vishal"
+    console.log(this);
+    
+}
+// chai()
+
+
+//  arrow functions 
+
+// const addTwo = (num1 , num2 )=>{
+//     return num1 +num2
+// }
+
+// const addTwo = (num1 , num2 )=> num1 +num2
+
+// 
+
+const addTwo = (num1 , num2) => ({username :"vishal"})
+console.log(addTwo (4,4))
+ 
